@@ -1,0 +1,12 @@
+[theme]
+base = "light"
+primaryColor = "#1E4FD8"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F1F4F9"
+textColor = "#172033"
+# IBM Plex Sans has clear, even-width numbers, which suits a finance dashboard.
+# If the font cannot load, the browser falls back to sans-serif.
+font = "IBM Plex Sans:https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&display=swap, sans-serif"
+
+[browser]
+gatherUsageStats = false
